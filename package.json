@@ -1,8 +1,7 @@
 {
-  "private": true,
   "name": "convert-japanese-string",
   "description": "Convert Japanese string by the specified mode",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "author": "ofk <ofkjpn+npm@gmail.com> (https://github.com/ofk/)",
   "homepage": "https://github.com/ofk/convert-japanese-string#readme",
   "repository": {
